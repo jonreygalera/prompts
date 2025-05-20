@@ -14,10 +14,14 @@
   _Expert code quality review with language-specific best practices_
 - [Full Stack Developer System Architecture](/developer/full_stack_developer_system_architecture)  
   _Secure, scalable web application architecture design_
+- [Laravel Learning Path Guide](/developer/laravel_learning_path_guide)  
+  _Structured roadmap for mastering Laravel framework_
 
 ## Prompt Engineering  
 - [Advanced AI Prompt Generator and Enhancer](/prompt_engineering/advanced_ai_prompt_generator_and_enhancer)  
   _Transform basic prompts into rich, thought-provoking versions_
+- [Output Schema Designer](/prompt_engineering/add_output_schema)  
+  _Create JSON schemas for structured AI outputs_
 
 ---
 
