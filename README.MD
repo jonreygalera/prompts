@@ -17,6 +17,11 @@
 - [Laravel Learning Path Guide](/developer/laravel_learning_path_guide)  
   _Structured roadmap for mastering Laravel framework_
 
+## Profile
+- [Professional Identity](/profile/professional_identity)  
+  _Build your professional identity as a developer_
+
+
 ## Prompt Engineering  
 - [Advanced AI Prompt Generator and Enhancer](/prompt_engineering/advanced_ai_prompt_generator_and_enhancer)  
   _Transform basic prompts into rich, thought-provoking versions_
